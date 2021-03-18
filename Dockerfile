@@ -4,4 +4,4 @@ ADD my_script.py /
 
 RUN pip install pystrich
 
-CDM [ "python", "./myscript.py"]
+CDM [ "python", "./my_script.py"]
